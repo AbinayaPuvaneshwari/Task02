@@ -1,2 +1,2 @@
-# Task02
-Creating Stop watch using HTML,CSS, JavaScript
+# Stopwatch-Project
+A simple stopwatch program using HTML CSS and JavaScript!
